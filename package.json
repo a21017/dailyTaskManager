@@ -2,7 +2,7 @@
   "name": "daily_tracker_app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://a21017.github.io/dailyTaskManager",
+  "homepage":"https://a21017.github.io/daily_tracker_app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
